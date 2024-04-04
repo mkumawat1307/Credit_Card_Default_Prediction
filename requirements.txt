@@ -3,4 +3,12 @@ scikit-learn
 numpy
 seaborn
 ipykernel
-flask
+Flask
+imblearn
+pymongo[srv]
+mlflow==2.2.2
+xgboost
+gunicorn
+dvc
+
+-e .
